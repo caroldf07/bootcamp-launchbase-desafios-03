@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carol</title>
+    <link rel="icon" href="https://raw.githubusercontent.com/caroldf07/bootcamp-launchbase-desafios-02/master/desafios/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="/about.css" type="text/css">
+    {% block addstyle %}
+    {% endblock addstyle %}
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <p><img src="https://raw.githubusercontent.com/caroldf07/bootcamp-launchbase-desafios-02/351075d7f3e30d0e0e6a88dcf89bd4a948677388/desafios/logo-rocketseat.svg" alt="RocketSeat logo"> RocketSeat</p>
+        <nav>
+            <a href="https://discordapp.com/invite/gCRAFhc">Comunidade</a>
+            <a href="mailto:oi@rocketseat.com.br " >E-mail</a>
+            <a href="https://api.whatsapp.com/send?phone=555547992078767">Whatsapp</a>
+            <a href="/">Sobre</a>
+            <a href="/bootcamps">Cursos</a>
+        </nav>
+    </header>
+
+    <main>
+        {% block content %}
+        {% endblock content %}
+
+        <div id="social-media">
+            <a href="https://www.linkedin.com/school/rocketseat/" target="_blank">LinkedIn</a>
+            <a href="https://github.com/Rocketseat" target="_blank">GitHub</a>
+            <a href="https://blog.rocketseat.com.br/" target="_blank">Blog</a>
+        </div>
+    </main>
+
+    {% block script %}
+        <script src="bootcamps.js"></script>
+    {% endblock script %}
+</body>
+</html>
