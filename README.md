@@ -11,7 +11,7 @@
 <p align="center">
 
   <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Carolina Fonseca-%23F8952D">
   </a>
 
   <a href="LICENSE" >
@@ -31,7 +31,6 @@
 - [Primeiro servidor](desafios/03-1-primeiro-servidor.md)
 - [Arquivos nunjucks e dados dinâmicos](desafios/03-2-nunjucks-e-dados-dinamicos.md)
 - [Página de descrição do curso](desafios/03-3-pagina-descricao-curso.md)
-- [Refatorando Foodfy](desafios/03-refatorando-foodfy.md)
 
 ## :calendar: Entrega
 
