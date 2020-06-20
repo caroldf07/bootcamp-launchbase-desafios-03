@@ -32,9 +32,9 @@
 - [Arquivos nunjucks e dados dinâmicos](desafios/03-2-nunjucks-e-dados-dinamicos.md)
 - [Página de descrição do curso](desafios/03-3-pagina-descricao-curso.md)
 
-## :calendar: Entrega
+## Projeto Finalizado:
 
-Esses desafios **não precisam ser entregues** e não receberão correção. Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
+![](https://imgur.com/sUGiXzU.gif)
 
 ## :memo: Licença
 
