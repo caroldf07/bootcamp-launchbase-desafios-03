@@ -34,7 +34,7 @@
 
 ## Projeto Finalizado:
 
-<img alt="Launchbase" src="https://imgur.com/sUGiXzU.gif" width="600px" />
+![Gif projeto finalizado](https://imgur.com/sUGiXzU.gif)
 
 ## :memo: Licença
 
