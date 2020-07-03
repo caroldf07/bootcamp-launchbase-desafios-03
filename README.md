@@ -34,7 +34,7 @@
 
 ## Projeto Finalizado:
 
-![Gif projeto finalizado](https://imgur.com/sUGiXzU.gif)
+![](https://i.imgur.com/sUGiXzU.gifv)
 
 ## :memo: Licença
 
